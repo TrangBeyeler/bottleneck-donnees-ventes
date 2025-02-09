@@ -15,6 +15,9 @@ Cette harmonisation permettra d'obtenir une meilleure visibilité sur les stocks
 
 ## Points Clés
 ✅ **Consolidation de données** entre deux systèmes non reliés pour une meilleure gestion des ventes et des stocks.
+
 📊 **Analyse financière** avec calcul du chiffre d’affaires par produit et évaluation des performances de vente en ligne.
+
 🛠 **Détection d’anomalies** dans les prix des produits pour améliorer la fiabilité des données et éviter les erreurs commerciales.
+
 📢 **Présentation des résultats** à la direction via un dashboard et un rapport détaillé, mettant en avant les recommandations pour optimiser la gestion des données et des ventes.
