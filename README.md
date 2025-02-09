@@ -6,8 +6,11 @@ Cette harmonisation permettra d'obtenir une meilleure visibilité sur les stocks
 
 ## Méthodologie
  **1. Rapprochement des bases de données** : Fusion des données issues de l’ERP et de la boutique en ligne en utilisant la table de liaison créée par une ancienne stagiaire. Vérification et correction des incohérences.
+
  **2. Analyse des ventes** : Calcul du chiffre d’affaires par produit et du total des ventes en ligne.
+ 
  **3. Détection des anomalies** : Identification des erreurs potentielles dans les prix des produits et mise en place de visualisations pour faciliter leur interprétation.
+ 
  **4. Restitution des résultats** : Présentation des analyses sous forme d’un rapport et d’une visualisation graphique pour une meilleure compréhension des tendances et des incohérences.
 
 ## Points Clés
